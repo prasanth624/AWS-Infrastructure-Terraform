@@ -73,7 +73,7 @@ Workflow file location:
 
 ```
 
-## Usage
+### steps 
 
 1. Navigate to the required environment:
 
