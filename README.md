@@ -13,16 +13,16 @@ AWS-Infrastructure-Terraform
 │   └── prod
 │
 └── modules
-├── alb
-├── ec2
-│   └── templates
-├── iam
-│   └── policies
-├── rds
-├── s3
-│   └── policies
-├── security-groups
-└── vpc
+    ├── alb
+    ├── ec2
+    │   └── templates
+    ├── iam
+    │   └── policies
+    ├── rds
+    ├── s3
+    │   └── policies
+    ├── security-groups
+    └── vpc
 
 ```
 
